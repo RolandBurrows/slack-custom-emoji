@@ -1,7 +1,7 @@
 # slack-custom-emoji
 Because existing emoji lack sufficient dank
 
-[![Build Status](https://semaphoreci.com/api/v1/rolandburrows/slack-custom-emoji/branches/import-2/shields_badge.svg)](https://semaphoreci.com/rolandburrows/slack-custom-emoji)
+[![Build Status](https://semaphoreci.com/api/v1/rolandburrows/slack-custom-emoji/branches/master/shields_badge.svg)](https://semaphoreci.com/rolandburrows/slack-custom-emoji)
 
 Continuous Integration confirms each file matches Slack upload requirements
 
