@@ -24,7 +24,7 @@ Continuous Integration confirms each file matches Slack upload requirements
 - [Custom Emoji Packs](http://www.emojipacks.com/)
 
 ### Custom Emoji Styleguide Suggestions
-1. Format:`.png` to preserve transparency
+1. Format: `.png` to preserve transparency
 2. Background removed (turned transparent)
 3. Dimenions: 128px * 128px (even if emoji isn't) to preserve centering
 4. Less than 64kb in size
