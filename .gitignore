@@ -1,0 +1,4 @@
+.rspec
+.rspec.example
+*.env*
+*/readme_table.txt
