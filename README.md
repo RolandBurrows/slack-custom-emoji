@@ -11,6 +11,7 @@ Continuous Integration confirms each file matches Slack upload requirements
 - [Other Resources Most Excellent](#other-resources-most-excellent)
 - [Custom Emoji Styleguide Suggestions](custom-emoji-styleguide-suggestions)
 - [Custom Emoji List](#custom-emoji-list)
+- [Custom Slackbot Responses](#custom-slackbot-responses)
 
 -----
 
@@ -53,3 +54,44 @@ Continuous Integration confirms each file matches Slack upload requirements
 | <img src="custom_emoji/which-is-nice.png" width="32" height="32"/> | :which-is-nice: | <img src="custom_emoji/why-not-zoidberg.png" width="32" height="32"/> | :why-not-zoidberg: | <img src="custom_emoji/wtf.png" width="32" height="32"/> | :wtf: |
 | <img src="custom_emoji/yey.png" width="32" height="32"/> | :yey: | <img src="custom_emoji/you-cant-if-you-dont.png" width="32" height="32"/> | :you-cant-if-you-dont: |
 
+### Custom Slackbot Responses
+
+#### [Magic 8-Ball](https://en.wikipedia.org/wiki/Magic_8-Ball)
+
+<table style="width:100%">
+  <tr>
+    <th>When someone says</th>
+    <th>Slackbot responds with (randomly selects one)</th>
+  </tr>
+  <tr>
+    <td>:magic-eight-ball:</td>
+    <td>"It is certain"<br>
+        "It is decidedly so"<br>
+        "Without a doubt"<br>
+        "Yes definitely"<br>
+        "You may rely on it"<br>
+        "As I see it, yes"<br>
+        "Most likely"<br>
+        "Outlook good"<br>
+        "Yes"<br>
+        "Signs point to yes"<br>
+        "Reply hazy try again"<br>
+        "Ask again later"<br>
+        "Better not tell you now"<br>
+        "Cannot predict now"<br>
+        "Concentrate and ask again"<br>
+        "Don't count on it"<br>
+        "My reply is no"<br>
+        "My sources say no"<br>
+        "Outlook not so good"<br>
+        "Very doubtful"
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <img src="slackbot_responses/magic-eight-ball-response.png" width="514"/>
+    </td>
+  </tr>
+</table>
