@@ -11,6 +11,7 @@ Continuous Integration confirms each file matches Slack upload requirements
 - [Other Resources Most Excellent](#other-resources-most-excellent)
 - [Custom Emoji Styleguide Suggestions](custom-emoji-styleguide-suggestions)
 - [Custom Emoji List](#custom-emoji-list)
+- [Custom Slackbot Responses](#custom-slackbot-responses)
 
 -----
 
@@ -44,11 +45,53 @@ Continuous Integration confirms each file matches Slack upload requirements
 | <img src="custom_emoji/feels-good.png" width="32" height="32"/> | :feels-good: | <img src="custom_emoji/gooby.png" width="32" height="32"/> | :gooby: | <img src="custom_emoji/hmmm.png" width="32" height="32"/> | :hmmm: |
 | <img src="custom_emoji/hodor.png" width="32" height="32"/> | :hodor: | <img src="custom_emoji/i-guess-with-emphasis.png" width="32" height="32"/> | :i-guess-with-emphasis: | <img src="custom_emoji/i-guess.png" width="32" height="32"/> | :i-guess: |
 | <img src="custom_emoji/i-lied.png" width="32" height="32"/> | :i-lied: | <img src="custom_emoji/impossibru.png" width="32" height="32"/> | :impossibru: | <img src="custom_emoji/indeed.png" width="32" height="32"/> | :indeed: |
-| <img src="custom_emoji/lolwut.png" width="32" height="32"/> | :lolwut: | <img src="custom_emoji/mega-rage.png" width="32" height="32"/> | :mega-rage: | <img src="custom_emoji/neutral.png" width="32" height="32"/> | :neutral: |
-| <img src="custom_emoji/nice.png" width="32" height="32"/> | :nice: | <img src="custom_emoji/not-bad.png" width="32" height="32"/> | :not-bad: | <img src="custom_emoji/one-does-not-simply.png" width="32" height="32"/> | :one-does-not-simply: |
-| <img src="custom_emoji/rainbow-drool.png" width="32" height="32"/> | :rainbow-drool: | <img src="custom_emoji/ruhroh.png" width="32" height="32"/> | :ruhroh: | <img src="custom_emoji/successful.png" width="32" height="32"/> | :successful: |
-| <img src="custom_emoji/thatd-be-great.png" width="32" height="32"/> | :thatd-be-great: | <img src="custom_emoji/this-is-fine.png" width="32" height="32"/> | :this-is-fine: | <img src="custom_emoji/tired-spongebob.png" width="32" height="32"/> | :tired-spongebob: |
-| <img src="custom_emoji/troll-dance.gif" width="32" height="32"/> | :troll-dance: | <img src="custom_emoji/troll-period.png" width="32" height="32"/> | :troll-period: | <img src="custom_emoji/trollface-right.png" width="32" height="32"/> | :trollface-right: |
-| <img src="custom_emoji/waiting-spongebob.gif" width="32" height="32"/> | :waiting-spongebob: | <img src="custom_emoji/wat.png" width="32" height="32"/> | :wat: | <img src="custom_emoji/which-is-nice.png" width="32" height="32"/> | :which-is-nice: |
-| <img src="custom_emoji/why-not-zoidberg.png" width="32" height="32"/> | :why-not-zoidberg: | <img src="custom_emoji/wtf.png" width="32" height="32"/> | :wtf: | <img src="custom_emoji/yey.png" width="32" height="32"/> | :yey: |
-| <img src="custom_emoji/you-cant-if-you-dont.png" width="32" height="32"/> | :you-cant-if-you-dont: |
+| <img src="custom_emoji/lolwut.png" width="32" height="32"/> | :lolwut: | <img src="custom_emoji/magic-eight-ball.png" width="32" height="32"/> | :magic-eight-ball: | <img src="custom_emoji/mega-rage.png" width="32" height="32"/> | :mega-rage: |
+| <img src="custom_emoji/neutral.png" width="32" height="32"/> | :neutral: | <img src="custom_emoji/nice.png" width="32" height="32"/> | :nice: | <img src="custom_emoji/not-bad.png" width="32" height="32"/> | :not-bad: |
+| <img src="custom_emoji/one-does-not-simply.png" width="32" height="32"/> | :one-does-not-simply: | <img src="custom_emoji/rainbow-drool.png" width="32" height="32"/> | :rainbow-drool: | <img src="custom_emoji/ruhroh.png" width="32" height="32"/> | :ruhroh: |
+| <img src="custom_emoji/successful.png" width="32" height="32"/> | :successful: | <img src="custom_emoji/thatd-be-great.png" width="32" height="32"/> | :thatd-be-great: | <img src="custom_emoji/this-is-fine.png" width="32" height="32"/> | :this-is-fine: |
+| <img src="custom_emoji/tired-spongebob.png" width="32" height="32"/> | :tired-spongebob: | <img src="custom_emoji/troll-dance.gif" width="32" height="32"/> | :troll-dance: | <img src="custom_emoji/troll-period.png" width="32" height="32"/> | :troll-period: |
+| <img src="custom_emoji/trollface-right.png" width="32" height="32"/> | :trollface-right: | <img src="custom_emoji/waiting-spongebob.gif" width="32" height="32"/> | :waiting-spongebob: | <img src="custom_emoji/wat.png" width="32" height="32"/> | :wat: |
+| <img src="custom_emoji/which-is-nice.png" width="32" height="32"/> | :which-is-nice: | <img src="custom_emoji/why-not-zoidberg.png" width="32" height="32"/> | :why-not-zoidberg: | <img src="custom_emoji/wtf.png" width="32" height="32"/> | :wtf: |
+| <img src="custom_emoji/yey.png" width="32" height="32"/> | :yey: | <img src="custom_emoji/you-cant-if-you-dont.png" width="32" height="32"/> | :you-cant-if-you-dont: |
+
+### Custom Slackbot Responses
+
+#### [Magic 8-Ball](https://en.wikipedia.org/wiki/Magic_8-Ball)
+
+<table style="width:100%">
+  <tr>
+    <th>When someone says</th>
+    <th>Slackbot responds with (randomly selects one)</th>
+  </tr>
+  <tr>
+    <td>:magic-eight-ball:</td>
+    <td>"It is certain"<br>
+        "It is decidedly so"<br>
+        "Without a doubt"<br>
+        "Yes definitely"<br>
+        "You may rely on it"<br>
+        "As I see it, yes"<br>
+        "Most likely"<br>
+        "Outlook good"<br>
+        "Yes"<br>
+        "Signs point to yes"<br>
+        "Reply hazy try again"<br>
+        "Ask again later"<br>
+        "Better not tell you now"<br>
+        "Cannot predict now"<br>
+        "Concentrate and ask again"<br>
+        "Don't count on it"<br>
+        "My reply is no"<br>
+        "My sources say no"<br>
+        "Outlook not so good"<br>
+        "Very doubtful"
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <img src="slackbot_responses/magic-eight-ball-response.png" width="514"/>
+    </td>
+  </tr>
+</table>
