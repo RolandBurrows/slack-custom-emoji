@@ -48,11 +48,13 @@ Continuous Integration confirms each file matches Slack upload requirements
 | <img src="custom_emoji/lolwut.png" width="32" height="32"/> | :lolwut: | <img src="custom_emoji/magic-eight-ball.png" width="32" height="32"/> | :magic-eight-ball: | <img src="custom_emoji/mega-rage.png" width="32" height="32"/> | :mega-rage: |
 | <img src="custom_emoji/neutral.png" width="32" height="32"/> | :neutral: | <img src="custom_emoji/nice.png" width="32" height="32"/> | :nice: | <img src="custom_emoji/not-bad.png" width="32" height="32"/> | :not-bad: |
 | <img src="custom_emoji/one-does-not-simply.png" width="32" height="32"/> | :one-does-not-simply: | <img src="custom_emoji/rainbow-drool.png" width="32" height="32"/> | :rainbow-drool: | <img src="custom_emoji/ruhroh.png" width="32" height="32"/> | :ruhroh: |
-| <img src="custom_emoji/successful.png" width="32" height="32"/> | :successful: | <img src="custom_emoji/thatd-be-great.png" width="32" height="32"/> | :thatd-be-great: | <img src="custom_emoji/this-is-fine.png" width="32" height="32"/> | :this-is-fine: |
-| <img src="custom_emoji/tired-spongebob.png" width="32" height="32"/> | :tired-spongebob: | <img src="custom_emoji/troll-dance.gif" width="32" height="32"/> | :troll-dance: | <img src="custom_emoji/troll-period.png" width="32" height="32"/> | :troll-period: |
-| <img src="custom_emoji/troll-question.png" width="32" height="32"/> | :troll-question: | <img src="custom_emoji/trollface-right.png" width="32" height="32"/> | :trollface-right: | <img src="custom_emoji/waiting-spongebob.gif" width="32" height="32"/> | :waiting-spongebob: |
-| <img src="custom_emoji/wat.png" width="32" height="32"/> | :wat: | <img src="custom_emoji/which-is-nice.png" width="32" height="32"/> | :which-is-nice: | <img src="custom_emoji/why-not-zoidberg.png" width="32" height="32"/> | :why-not-zoidberg: |
-| <img src="custom_emoji/wtf.png" width="32" height="32"/> | :wtf: | <img src="custom_emoji/yey.png" width="32" height="32"/> | :yey: | <img src="custom_emoji/you-cant-if-you-dont.png" width="32" height="32"/> | :you-cant-if-you-dont: |
+| <img src="custom_emoji/successful.png" width="32" height="32"/> | :successful: | <img src="custom_emoji/thatd-be-great.png" width="32" height="32"/> | :thatd-be-great: | <img src="custom_emoji/thats-what-i-like.png" width="32" height="32"/> | :thats-what-i-like: |
+| <img src="custom_emoji/this-is-fine.png" width="32" height="32"/> | :this-is-fine: | <img src="custom_emoji/tired-spongebob.png" width="32" height="32"/> | :tired-spongebob: | <img src="custom_emoji/troll-dance.gif" width="32" height="32"/> | :troll-dance: |
+| <img src="custom_emoji/troll-exclamation.png" width="32" height="32"/> | :troll-exclamation: | <img src="custom_emoji/troll-period.png" width="32" height="32"/> | :troll-period: | <img src="custom_emoji/troll-question.png" width="32" height="32"/> | :troll-question: |
+| <img src="custom_emoji/trollface-right.png" width="32" height="32"/> | :trollface-right: | <img src="custom_emoji/waiting-spongebob.gif" width="32" height="32"/> | :waiting-spongebob: | <img src="custom_emoji/wat.png" width="32" height="32"/> | :wat: |
+| <img src="custom_emoji/which-is-nice.png" width="32" height="32"/> | :which-is-nice: | <img src="custom_emoji/why-not-zoidberg.png" width="32" height="32"/> | :why-not-zoidberg: | <img src="custom_emoji/wtf.png" width="32" height="32"/> | :wtf: |
+| <img src="custom_emoji/yey.png" width="32" height="32"/> | :yey: | <img src="custom_emoji/you-cant-if-you-dont.png" width="32" height="32"/> | :you-cant-if-you-dont: |
+
 
 
 ### Custom Slackbot Responses
