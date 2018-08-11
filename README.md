@@ -23,6 +23,7 @@ Continuous Integration confirms each file matches Slack upload requirements
 - [Cult of the Party Parrot](http://cultofthepartyparrot.com/)
 - [Many Many Other Custom Emoji](https://slackmojis.com/)
 - [Custom Emoji Packs](http://www.emojipacks.com/)
+- [Slack Emoji Directory](http://www.slackemoji.com/)
 
 ### Custom Emoji Styleguide Suggestions
 1. Format: `.png` to preserve transparency
