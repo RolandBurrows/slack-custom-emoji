@@ -7,7 +7,7 @@ def generate_readme_table
   readme_table_string << "|:-----:|:--------------:|:-----:|:--------------:|:-----:|:--------------:|\n"
   emoji_array = []
   puts '> Adding emoji to table'
-  Dir["../custom_emoji/*"].each { |emoji_image|
+  Dir["**/custom_emoji/*"].each { |emoji_image|
     emoji_array.push(emoji_image.sub("../", ""))
   }
   emoji_array.each_slice(3) { |section|
