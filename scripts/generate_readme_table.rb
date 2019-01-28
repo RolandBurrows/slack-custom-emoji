@@ -7,7 +7,7 @@ def generate_readme_table
   readme_table_string << "|:-----:|:--------------:|:-----:|:--------------:|:-----:|:--------------:|\n"
   emoji_array = []
   puts '> Adding emoji to table'
-  Dir["**/custom_emoji/*"].each { |emoji_image|
+  Dir["**/custom_emoji/*"].sort.each { |emoji_image|
     emoji_array.push(emoji_image.sub("../", ""))
   }
   emoji_array.each_slice(3) { |section|
@@ -24,7 +24,7 @@ end
 
 def save_output_to_file(input)
   filename = 'readme_table.txt'
-  puts "> Saving table to file to git-ignored file: (#{filename})"
+  puts "> Saving table to git-ignored file: (#{filename})"
   output_file = File.new(filename, "w+")
   File.open(output_file, "w") { |file| file.write(input) }
   output_file.close

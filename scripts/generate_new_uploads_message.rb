@@ -7,7 +7,7 @@ def generate_upload_message
   readme_table_string << "Newly uploaded emoji:\n>>>\n"
   emoji_array = []
   puts '> Adding emoji to message'
-  Dir["**/custom_emoji/*"].each { |emoji_image|
+  Dir["**/custom_emoji/*"].sort.each { |emoji_image|
     emoji_array.push(emoji_image.sub("../", ""))
   }
   emoji_array.each { |emoji_entry|
