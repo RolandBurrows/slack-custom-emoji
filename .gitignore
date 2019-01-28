@@ -2,3 +2,4 @@
 .rspec.example
 *.env*
 readme_table.txt
+upload_message.txt
